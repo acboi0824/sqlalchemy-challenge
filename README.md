@@ -4,15 +4,12 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 ----------------
 ### Part 1: Climate Analysis and Exploration
 
-In this section, you’ll use Python and SQLAlchemy to perform basic climate analysis and data exploration of your climate database. Complete the following tasks by using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
-* Use the provided [starter notebook](climate_starter.ipynb) and [hawaii.sqlite](Resources/hawaii.sqlite) files to complete your climate analysis and data exploration.
+* add code image here! ![]
 
-* Use SQLAlchemy’s `create_engine` to connect to your SQLite database.
+#### Precipitation Analysis
 
-* Use SQLAlchemy’s `automap_base()` to reflect your tables into classes and save a reference to those classes called `Station` and `Measurement`.
+#### Station Analysis
 
-* Link Python to the database by creating a SQLAlchemy session.
-
-* **Important:** Don't forget to close out your session at the end of your notebook.
-* ![]
+--------------------
+### Part 2: Design Your Climate App
